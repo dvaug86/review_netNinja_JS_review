@@ -1,0 +1,1 @@
+This is for practicing code for review and so I have notes on where to get better.
